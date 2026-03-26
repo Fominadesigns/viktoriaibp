@@ -1,0 +1,170 @@
+{
+  "nav": {
+    "services": " [ services ]",
+    "whyMe": " [ why me? ]",
+    "contacts": " [ contacts ]"
+  },
+  "hero": {
+    "subtitle": "IBP consulting for FMCG",
+    "subtitleSpan": "and manufacturing companies",
+    "title": "Scale without operational chaos",
+    "titleSuffix": "by implementing integrated",
+    "titleSuffixBold": "business planning",
+    "titleTiny": "(IBP / S&OP)",
+    "description": "Build realistic plans, align departments, respond faster",
+    "descriptionSpan": "to market shifts, and gain the clarity you need to lead",
+    "cta": "Book a call"
+  },
+  "stats": {
+    "years": "years of experience",
+    "leaders": "leaders aligned across",
+    "leadersSpan": "5 countries",
+    "revenue": "Annual revenue company successfully transformed with IBP"
+  },
+  "quote": "Details + big picture, directness + empathy, freedom + hard-earned mistakes — this is what makes me, me",
+  "about": {
+    "title": "Viktoriia Yashchenko",
+    "subtitle": "Integrated Business Planning Consultant for CEOs, CFOs, and COOs with 18+ years of experience in finance, supply chain, and enterprise transformation",
+    "timeline": {
+      "2009": "Started in Audit BIG4",
+      "2012": "Moved to Manufacturing & Supply Chain",
+      "2015": "Led IBP transformation at FMCG company (€3B revenue)",
+      "2020": "Launched IBP consulting practice"
+    }
+  },
+  "grow": {
+    "title": "Industrial companies grow faster",
+    "titleSpan": "than their processes can handle",
+    "slide1Title": "Plans",
+    "slide1TitleSpan": "don't match",
+    "slide1Desc": "Sales, production, and finance each plan separately with different numbers and priorities.",
+    "slide2Title": "Decisions take",
+    "slide2TitleSpan": "too long",
+    "slide2Desc": "No single owner of the end-to-end process, too many approvals, unclear accountability",
+    "slide3Title": "Firefighting",
+    "slide3TitleSpan": "becomes routine",
+    "slide3Desc": "Calls, chats, and urgent fixes replace structured meetings and clear planning",
+    "slide4Title": "Inventory grows —",
+    "slide4TitleSpan": "or runs out",
+    "slide4Desc": "Warehouses overflow, production lags, and no one can clearly answer why.",
+    "slide5Title": "Processes depend",
+    "slide5TitleSpan": "on people, not systems",
+    "slide5Desc": "Knowledge lives in spreadsheets or \"key employees,\" not in a transparent workflow.",
+    "slide6Title": "Analysis",
+    "slide6TitleSpan": "is always late",
+    "slide6Desc": "When plans fail, it takes days to understand what went wrong and who is responsible."
+  },
+  "solution": {
+    "title": "Yes, but in order to streamline this complexity, you'll need more than processes",
+    "card1Title": "You'll need a system tailored to your reality",
+    "card1Desc": "Not a copy-paste of what works at a global HQ or in textbooks",
+    "card2Title": "You'll need someone who understands both finance and operations",
+    "card2Desc": "Someone who can translate the language of P&L and budgets into executable supply chain strategies",
+    "card3Title": "You'll need a real process owner",
+    "card3Desc": "You need a real process owner to ensure accountability and execution"
+  },
+  "services": {
+    "title": "IBP consulting",
+    "titleSuffix": "that keeps your growth sustainable",
+    "subtitle": "I design and implement planning systems (S&OP, IBP) that align demand, production, and procurement with financial goals",
+    "service1Title": "Supply Chain",
+    "service1TitleSpan": "Strategy Design",
+    "service1Desc": "Align operations with your business goals and growth ambitions.",
+    "service2Title": "Gap Analysis & Maturity Assessment",
+    "service2Desc": "Assess your current supply chain capabilities, identify gaps, and create a practical roadmap to close them.",
+    "service3Title": "IBP Process Development & Governance",
+    "service3Desc": "Build monthly planning cycles that actually work across functions and support the journey to the strategic target.",
+    "service4Title": "SAP Readiness & Business-Side Preparation",
+    "service4Desc": "Prepare your processes, data, and teams for ERP/IBP implementation before technology deployment.",
+    "service5Title": "Workshops & Executive Advisory",
+    "service5Desc": "Facilitate leadership alignment to build one version of the plan and make faster, cross-functional decisions."
+  },
+  "results": {
+    "title": "Tangible results",
+    "titleSuffix": "of our collaboration",
+    "subtitle": "Results like these don't happen overnight.They start with a clear diagnostic and a roadmap that fits your reality.",
+    "result1Title": "Financial",
+    "result1TitleSpan": "Growth",
+    "result1Desc": "Unlock working capital through cost optimization and operational efficiency improvements.",
+    "result2Title": "Increased Customer Service Levels",
+    "result2Desc": "Raise service levels from 60% to 98% and cut lead times in half through aligned planning.",
+    "result3Title": "Optimized Inventory",
+    "result3TitleSpan": "& Cost Structure",
+    "result3Desc": "Reduce inventory up to 50% without disrupting production or customer commitments.",
+    "result4Title": "Enhanced Digital Capabilities",
+    "result4Desc": "Connect operations and finance through integrated systems (SAP IBP, Power BI) for faster decisions."
+  },
+  "diagnostic": {
+    "title": "Start",
+    "titleBold": "with a zero-risk",
+    "titleSpan": "free 3-Day Diagnostic",
+    "subtitle": "The process",
+    "step1": "Interviews with finance, supply chain, and sales teams",
+    "step2": "Analysis of current planning and operations flows",
+    "step3": "Initial data review to see the full picture",
+    "outcomeTitle": "The ideal outcome",
+    "outcome1": "A clear overview of your current situation and pain points",
+    "outcome2": "Understanding of where planning breaks down and why",
+    "outcome3": "A direction for change: what to fix first, and what can wait",
+    "outcome4": "Confidence in whether integrated business planning is the right next step",
+    "cta": "Book a call"
+  },
+  "whyMe": {
+    "title": "Why work with me?",
+    "reason1Title": "International experience across 8+ markets",
+    "reason1Desc": "Led ERP and IBP transformations across Europe and the Middle East. Successfully adapted to different company cultures and operational realities.",
+    "reason2Title": "I speak the language of CFOs, Supply chain professionals, planners, and IT teams",
+    "reason2Desc": "Started in finance, so I understand budgets, P&L, and numbers. But I also know how those numbers are formed inside daily operations. That's why I can align strategy, finance, and execution around shared goals.",
+    "reason3Title": "Not just me — a team behind every project",
+    "reason3Desc": "I lead a small team of analysts, planners, and technical experts who support each project. They handle diagnostics, process mapping, Excel, Power BI, and SAP implementation. This lets me focus on strategy while they execute the changes.",
+    "reason4Title": "Built systems from zero,",
+    "reason4TitleSpan": "not inherited them",
+    "reason4Desc": "I didn't manage systems designed at headquarters. I built them from scratch, side by side with teams who trusted me. That's why I know what truly works in practice, not just in theory.",
+    "reason5Title": "Straightforward,",
+    "reason5TitleSpan": "no-corporate-bullshit consulting style",
+    "reason5Desc": "I don't fit the \"Big 3\" consulting mold. I work where decisions happen fast, in the same meeting, not next quarter. I value clarity, accountability, and results over slides and buzzwords.",
+    "reason6Title": "Holistic approach to IBP integration",
+    "reason6Desc": "I go beyond recommendations. I create working models, Excel and Power Query tools, and ERP prototypes. This makes transformation tangible and usable from day one."
+  },
+  "certifications": {
+    "cert1": "IMD Transformational Leader",
+    "cert2": "INSEAD Corporate Executive MBA",
+    "cert3": "APICS CTSC",
+    "cert4": "ACCA"
+  },
+  "ideal": {
+    "title": "You'll get the most value",
+    "titleSpan": "from working together if...",
+    "case1Title": "Growth is outpacing your planning capabilities",
+    "case1Desc": "You're expanding to new markets or scaling production,but planning, procurement, and operations can't keep up.",
+    "case2Title": "Each department plans in isolation",
+    "case2Desc": "Sales, production, and finance each have their own plans —and no one really knows which numbers are right",
+    "case3Title": "Firefighting instead of strategic planning",
+    "case3Desc": "You spend time fixing urgent issues instead of improving how the business runs. You want predictability, not crisis management.",
+    "case4Title": "Leadership is ready to drive real change",
+    "case4Desc": "The project sponsor is an owner, CEO, or COO —someone with authority to make and sustain real changes.",
+    "case5Title": "Chaos is a symptom, not your culture",
+    "case5Desc": "You recognize that constant phone calls, manual planning, and mismatched spreadsheets aren't a sign of hard work — they're a sign to fix the system"
+  },
+  "newsletter": {
+    "title": "Understand IBP beyond theory",
+    "subtitle": "Join the newsletter",
+    "description": "Get practical insights and proven frameworks that show how planning, finance, and operations really work together",
+    "emailLabel": "Email Address",
+    "submitBtn": "Submit",
+    "successMsg": "Thank you! Your submission has been received!",
+    "errorMsg": "Oops! Something went wrong while submitting the form."
+  },
+  "contact": {
+    "title": "Schedule a free consultation call below",
+    "name": "Viktoriia Yashchenko",
+    "callType": "Intro call",
+    "duration": "30 min",
+    "discussTitle": "What we'll discuss",
+    "discussSpan": "on the call",
+    "point1": "Your current challenges with planning, inventory, or coordination across departments",
+    "point2": "A quick maturity assessment: Where you are now and what's holding you back",
+    "point3": "The right next step — whether that's a diagnostic, a process review, or something else",
+    "point4": "How IBP consulting can fit into your roadmap without disrupting current operations"
+  }
+}
